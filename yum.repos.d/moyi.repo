@@ -1,0 +1,5 @@
+[puppetlabs]
+name=Mail-Order Yaks Interactive Packages
+baseurl=http://192.168.88.133/el/$releasever/$basearch/
+gpgcheck=0
+enabled=1
