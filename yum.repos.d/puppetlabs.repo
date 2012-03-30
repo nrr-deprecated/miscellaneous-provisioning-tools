@@ -1,5 +1,0 @@
-[puppetlabs]
-name=Puppet Labs Packages
-baseurl=http://yum.puppetlabs.com/el/$releasever/products/$basearch/
-gpgcheck=0
-enabled=1
