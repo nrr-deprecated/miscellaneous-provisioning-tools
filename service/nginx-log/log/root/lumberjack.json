@@ -1,0 +1,14 @@
+{
+	"network": {
+		"servers": [ "localhost:5043" ],
+		"ssl certificate": "./root/lumberjack.crt",
+		"ssl key": "./root/lumberjack.key",
+		"ssl ca": "./root/lumberjack_ca.crt"
+	},
+	"files": [
+		{
+			"paths": [ "-" ],
+			"fields": { "type": "stdin" }
+		}
+	]
+}
